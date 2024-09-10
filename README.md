@@ -1,3 +1,4 @@
 # AnalysisProject
 Weekly Tasks for Advanced Data Analysis Project, with my friend Tariq
-Start by practice for Naive Bayes
+Practice 1: Naive Bayes
+Practice 2: Descirimant Analysis
