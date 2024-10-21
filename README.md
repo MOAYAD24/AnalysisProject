@@ -1,5 +1,5 @@
-# AnalysisProject
-Weekly Tasks for Advanced Data Analysis Project, with my friend Tariq
-Practice 1: Naive Bayes
-Practice 2: Descirimant Analysis
-Practice 3: Random Forest
+# Advanced Analysis Project
+with my work friend Tariq
+Model 1: Naive Bayes Classifier
+Model 2: Market Basket Analysis
+Model 3: Text Analysis
