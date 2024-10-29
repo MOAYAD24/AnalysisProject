@@ -1,0 +1,10 @@
+Report: Implementing Sentiment Analysis Model on the Sentiment140 Dataset
+
+Objective:
+The goal of this analysis is to build and evaluate a sentiment analysis model that can classify tweets as positive or negative using the Sentiment140 dataset. This model can assist in understanding public opinion and mood on various topics as expressed through Twitter.
+
+Dataset Overview:
+The Sentiment140 dataset consists of 1.6 million tweets labeled as either positive or negative, with fields including Sentiment, Tweet ID, Date, Query, User, and Text. The Text field contains the tweet content, which will be analyzed for sentiment, and the Sentiment field provides binary labels indicating positive (4) or negative (0) sentiment.
+
+Model Selection:
+For this task, a Logistic Regression classifier was chosen due to its simplicity, interpretability, and effectiveness in binary classification tasks. Additionally, Natural Language Processing (NLP) techniques were used to preprocess and convert the tweet text data into numerical format for model training.
