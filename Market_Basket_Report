@@ -1,0 +1,10 @@
+Report: Implementing Market Basket Analysis (MBA) for Online Retail Dataset
+
+Objective:
+The aim of this analysis is to implement Market Basket Analysis (MBA) to uncover product purchase patterns in an online retail dataset. These patterns can guide product bundling, recommendations, and promotional strategies to enhance sales.
+
+Dataset Overview:
+The dataset includes transactional data from an online retail store, with fields such as InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, and CustomerID. This information provides insights into customer purchase behavior by recording which products are bought together in a single transaction.
+
+Model Selection:
+Association Rule Mining, specifically the Apriori algorithm, was chosen for MBA. Apriori is well-suited for identifying frequent itemsets and generating association rules. Metrics such as support, confidence, and lift are used to evaluate the strength and relevance of associations between items.
